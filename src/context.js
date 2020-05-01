@@ -20,7 +20,7 @@ class  ProductProvider extends Component {
     
     componentDidMount(){
         this.setProducts();
-        console.log(this.state.products)
+        
     }
 
     setProducts =() =>{
